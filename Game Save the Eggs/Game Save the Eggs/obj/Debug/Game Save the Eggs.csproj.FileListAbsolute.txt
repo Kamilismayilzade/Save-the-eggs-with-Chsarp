@@ -1,0 +1,22 @@
+C:\Users\Samir\Desktop\Game Save the Eggs\Game Save the Eggs\bin\Debug\Game Save the Eggs.exe.config
+C:\Users\Samir\Desktop\Game Save the Eggs\Game Save the Eggs\bin\Debug\Game Save the Eggs.exe
+C:\Users\Samir\Desktop\Game Save the Eggs\Game Save the Eggs\bin\Debug\Game Save the Eggs.pdb
+C:\Users\Samir\Desktop\Game Save the Eggs\Game Save the Eggs\obj\Debug\Game Save the Eggs.csproj.AssemblyReference.cache
+C:\Users\Samir\Desktop\Game Save the Eggs\Game Save the Eggs\obj\Debug\Game Save the Eggs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samir\Desktop\Game Save the Eggs\Game Save the Eggs\obj\Debug\Game_Save_the_Eggs.Form1.resources
+C:\Users\Samir\Desktop\Game Save the Eggs\Game Save the Eggs\obj\Debug\Game_Save_the_Eggs.Properties.Resources.resources
+C:\Users\Samir\Desktop\Game Save the Eggs\Game Save the Eggs\obj\Debug\Game Save the Eggs.csproj.GenerateResource.cache
+C:\Users\Samir\Desktop\Game Save the Eggs\Game Save the Eggs\obj\Debug\Game Save the Eggs.csproj.CoreCompileInputs.cache
+C:\Users\Samir\Desktop\Game Save the Eggs\Game Save the Eggs\obj\Debug\Game Save the Eggs.exe
+C:\Users\Samir\Desktop\Game Save the Eggs\Game Save the Eggs\obj\Debug\Game Save the Eggs.pdb
+C:\Users\Samir\Desktop\C#\Game Save the Eggs\Game Save the Eggs\bin\Debug\Game Save the Eggs.exe.config
+C:\Users\Samir\Desktop\C#\Game Save the Eggs\Game Save the Eggs\bin\Debug\Game Save the Eggs.exe
+C:\Users\Samir\Desktop\C#\Game Save the Eggs\Game Save the Eggs\bin\Debug\Game Save the Eggs.pdb
+C:\Users\Samir\Desktop\C#\Game Save the Eggs\Game Save the Eggs\obj\Debug\Game Save the Eggs.csproj.AssemblyReference.cache
+C:\Users\Samir\Desktop\C#\Game Save the Eggs\Game Save the Eggs\obj\Debug\Game Save the Eggs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samir\Desktop\C#\Game Save the Eggs\Game Save the Eggs\obj\Debug\Game_Save_the_Eggs.Form1.resources
+C:\Users\Samir\Desktop\C#\Game Save the Eggs\Game Save the Eggs\obj\Debug\Game_Save_the_Eggs.Properties.Resources.resources
+C:\Users\Samir\Desktop\C#\Game Save the Eggs\Game Save the Eggs\obj\Debug\Game Save the Eggs.csproj.GenerateResource.cache
+C:\Users\Samir\Desktop\C#\Game Save the Eggs\Game Save the Eggs\obj\Debug\Game Save the Eggs.csproj.CoreCompileInputs.cache
+C:\Users\Samir\Desktop\C#\Game Save the Eggs\Game Save the Eggs\obj\Debug\Game Save the Eggs.exe
+C:\Users\Samir\Desktop\C#\Game Save the Eggs\Game Save the Eggs\obj\Debug\Game Save the Eggs.pdb
